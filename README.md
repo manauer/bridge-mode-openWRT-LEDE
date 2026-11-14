@@ -1,7 +1,7 @@
 # Bridge Mode for LEDE / OpenWrt (4G IP passthrough)
 
 > **Archived.** This was a proof of concept that ran in production in a small company network environment
-> from **2017 to 2022** on a MikroTik RB912UAG-5HPnD running LEDE. It is no longer maintained and
+> from **2017 to 2022** on a MikroTik RB912UAG-5HPnD running LEDE/OpenWRT. It is no longer maintained and
 > is kept for reference only.
 
 > [!WARNING]
@@ -32,7 +32,6 @@ assigns a new IP, it updates everything and hands out the new one.
 
 ## Hardware
 
-| | |
 |---|---|
 | Board | MikroTik RB912UAG-5HPnD with OpenWRT/LEDE |
 | LTE module | Sierra Wireless MC7455, later Sierra Wireless EM7565 |
