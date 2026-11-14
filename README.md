@@ -1,5 +1,6 @@
 # Bridge Mode for LEDE / OpenWrt (4G IP passthrough)
 
+> [!NOTE]
 > **Archived.** This was a proof of concept that ran in production in a small company network environment
 > from **2017 to 2022** on a MikroTik RB912UAG-5HPnD running LEDE/OpenWRT. It is no longer maintained and
 > is kept for reference only.
