@@ -32,6 +32,7 @@ assigns a new IP, it updates everything and hands out the new one.
 
 ## Hardware
 
+| Part | Details |
 |---|---|
 | Board | MikroTik RB912UAG-5HPnD with OpenWRT/LEDE |
 | LTE module | Sierra Wireless MC7455, later Sierra Wireless EM7565 |
